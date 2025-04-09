@@ -10,7 +10,7 @@ project:
   authors:
     - name: The ELSA Way Community
   copyright: "2025"
-  github: the-elsa-way/the-elsa-way
+  github: sophiedkk/the-elsa-way
   exclude:
     - README.md
     - LICENSE.md
