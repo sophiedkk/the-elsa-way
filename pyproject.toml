@@ -1,0 +1,8 @@
+[project]
+name = "the-elsa-way"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "jupyter-book>=2.0.0a0",
+]

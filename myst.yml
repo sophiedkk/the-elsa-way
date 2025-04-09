@@ -1,0 +1,23 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 0d1e8d24-a80b-4931-b74d-e32aed8dc3eb
+  title: The ELSA Way
+  license:
+   code: MIT
+   content: CC-BY-4.0
+  open_access: true
+  authors:
+    - name: The ELSA Way Community
+  copyright: "2025"
+  github: the-elsa-way/the-elsa-way
+  exclude:
+    - README.md
+    - LICENSE.md
+  toc:
+    - file: book/intro.md
+site:
+  template: book-theme
+  options:
+    favicon: book/figures/logo_elsa-nn.svg
+    logo: book/figures/logo_elsa-nn.svg
