@@ -15,6 +15,7 @@ project:
     - README.md
     - LICENSE.md
   toc:
+    - file: book/landing.md
     - file: book/intro.md
 site:
   template: book-theme
